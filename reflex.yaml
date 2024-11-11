@@ -1,0 +1,4 @@
+app_name: cronicas_ia
+api_url: http://localhost:3000
+env: dev
+bun_path: false

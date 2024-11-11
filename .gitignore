@@ -1,4 +1,8 @@
-env/
-__pycache__/
+*.db
+*.py[cod]
 *.pyc
+.web
+__pycache__/
+assets/external/
+env/
 node_modules/
